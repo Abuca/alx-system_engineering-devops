@@ -1,0 +1,1 @@
+Hello. The first project inside the devops repository shel basics directory.
